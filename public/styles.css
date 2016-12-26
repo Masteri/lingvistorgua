@@ -170,12 +170,12 @@ a img{
 .logo-font {
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     line-height: 1;
-    color: rgba(0, 233, 4, 0.88);
+    color: rgba(76, 167, 72, 0.88);
     font-weight: 500;
-    text-shadow: 0 0 3px #160000, 0 0 5px #00000d;
+    text-shadow: 0 0 2px #cacaca;
 
 }
-h1, h2, h3 {
+ h2, h3 {
     font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
     line-height: 1;
     color: rgba(255, 255, 255, 0.88);
@@ -301,9 +301,9 @@ h1, h2, h3 {
 
 .android-wear-section {
     position: relative;
-    background: url('images/wear.png') center top no-repeat;
+    /*   background: url('images/wear.png') center top no-repeat;     */
     background-size: cover;
-    height: 800px;
+    height: 700px;
 }
 
 .android-wear-band {
