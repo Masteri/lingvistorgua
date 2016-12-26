@@ -42,7 +42,9 @@ a img{
     margin: 0 !important;
 }
 
-
+.mdl-layout__header-row {
+    height: 140px;
+}
 .mdl-textfield--expandable {
     width: auto;
 }
@@ -62,8 +64,8 @@ a img{
 
 
 .android-logo-image {
-    height: 28px;
-    width: 140px;
+    height: 100px;
+    width: 222px;
 }
 
 
